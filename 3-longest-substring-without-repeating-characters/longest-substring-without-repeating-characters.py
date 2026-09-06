@@ -1,21 +1,22 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         """
-        Variable Sliding Window
-        1. We can keep a frequency of characters in our window
-        2. we just increase the size of window till we encounter a duplicate character.
-        3. we reduce the size fo window from left till we no logner have duplciate character in our window.
-        4. we keep track of bggest window using max
+        We have a window where we keep adding letters and we can use a set for it.
+        When we encounter a duplicate, we keep removing from the left side until the duplicteis not there anymore 
         """
-        left = 0
-        longest = 0
-        seen = set()
-        for right in range(len(s)):
+        if not s:
+            return 0
+        substring = set()
 
-            while s[right] in seen:
-                seen.remove(s[left])
+        left = 0
+        substring.add(s[left])
+        maxSub = len(substring)
+        for right in range(1, len(s)):
+            while s[right] in substring:
+                substring.remove(s[left])
                 left+=1
             
-            seen.add(s[right])
-            longest = max(longest, right-left+1)
-        return longest
+            substring.add(s[right])
+            maxSub = max(maxSub, len(substring))
+        
+        return maxSub
