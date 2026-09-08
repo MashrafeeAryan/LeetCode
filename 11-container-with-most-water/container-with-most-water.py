@@ -1,23 +1,29 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         """
-        1. have a maxVol = 0, variable
-        2. Two pointers. one from left and one from right.
-        3. We compare both and take the shorter height and multiply by the distane of right-left
-        4. We then just check for the maxVol and store
+        The maximum height of volume will depdn on min(left, right)
+        We will have two pointers: left and right
+        the width will be right - left
+        We have a while loop: left<=right
+        We move left when heihgt is smaller than right
+        and vice versa
+        we sotre the max vol
+
         """
 
-        right = len(height) -1
-        left = 0
         maxVol = 0
-        while left < right:
-            distance = right - left
-            current_height = min(height[left], height[right])
-            area = current_height * distance
-            maxVol = max(maxVol, area)
+        left = 0
+        right = len(height)-1
+
+        while left<= right:
+            minHeight = min(height[left], height[right])
+            width = right - left
+            vol = width * minHeight
+            maxVol = max(maxVol, vol)
 
             if height[left] <= height[right]:
-                left +=1
+                left+=1
             else:
                 right-=1
+        
         return maxVol
