@@ -1,23 +1,27 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         """
-        We will do a count that uses 
-        A list where we use ord to keep frequnecy of each letter of key
+        We can't ise dicct as keus becuase these are not immutable
+        So we can do somethng where we have groups dict
+        We loop through every word and create a index list with 26 characters
+        We take every chacter and find it's corresponding index using ord("char") - ("ä")
+        we conver the list to a tuple and add it to dict
+        
+        """
+        group = {}
 
-        """ 
-
-        groups ={}
         for word in strs:
-            count = [0]*26
-            for c in word:
-                count[ord(c) - ord("a")] +=1
+            char = [0] * 26
 
-            key = tuple(count)
+            for i in word:
+                char[ord(i) - ord("a")] +=1
+                
+            
+            key = tuple(char)
 
-            if key not in groups:
-                groups[key] = [word]
-            else:
-                groups[key].append(word)
+            if key not in group:
+                group[key] = []
+            
+            group[key].append(word)
 
-
-        return list(groups.values())
+        return list(group.values())
