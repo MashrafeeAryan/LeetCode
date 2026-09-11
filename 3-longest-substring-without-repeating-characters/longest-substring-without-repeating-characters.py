@@ -1,22 +1,23 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         """
-        We have a window where we keep adding letters and we can use a set for it.
-        When we encounter a duplicate, we keep removing from the left side until the duplicteis not there anymore 
+        We use a pointers and a window
+        Our It starts from the first index and second letter
+        We loop through the string and then have a while loop for the whindow.
+        when we encounter a chacter that is already in our window we keep reducing th ewindow size from left till the chavracter is no longer in our window
         """
-        if not s:
-            return 0
-        substring = set()
 
         left = 0
-        substring.add(s[left])
-        maxSub = len(substring)
-        for right in range(1, len(s)):
-            while s[right] in substring:
-                substring.remove(s[left])
+        maxVal = 0
+        seen = set()
+        if not s:
+            return 0
+        for right in range(len(s)):
+            while s[right] in seen:
+                seen.remove(s[left])
                 left+=1
             
-            substring.add(s[right])
-            maxSub = max(maxSub, len(substring))
+            seen.add(s[right])
+            maxVal = max(maxVal, right - left +1)
         
-        return maxSub
+        return maxVal
