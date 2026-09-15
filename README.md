@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/MashrafeeAryan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/MashrafeeAryan/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Hash Table
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MashrafeeAryan/LeetCode/tree/master/0069-sqrtx) |
+| [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MashrafeeAryan/LeetCode/tree/master/0069-sqrtx) |
+| [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 ## Newton's Method
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
