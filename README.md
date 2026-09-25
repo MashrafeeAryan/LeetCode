@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MashrafeeAryan/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MashrafeeAryan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/MashrafeeAryan/LeetCode/tree/master/0162-find-peak-element) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MashrafeeAryan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MashrafeeAryan/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
