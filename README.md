@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MashrafeeAryan/LeetCode/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/MashrafeeAryan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/MashrafeeAryan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/MashrafeeAryan/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MashrafeeAryan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MashrafeeAryan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/MashrafeeAryan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/MashrafeeAryan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/MashrafeeAryan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Randomized
 |  |
 | ------- |
