@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MashrafeeAryan/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/MashrafeeAryan/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MashrafeeAryan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/MashrafeeAryan/LeetCode/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/MashrafeeAryan/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MashrafeeAryan/LeetCode/tree/master/0078-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/MashrafeeAryan/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Stack
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MashrafeeAryan/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/MashrafeeAryan/LeetCode/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
