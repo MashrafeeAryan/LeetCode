@@ -1,19 +1,17 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        prefix = 0
-        count = 0
-        prefix_count = {0: 1}
+        subarray_no = 0
+        prefix_sum = 0
+        freq_counter = {0: 1}
 
         for num in nums:
-            # Add current number to running sum
-            prefix += num
+            prefix_sum += num
+            val = prefix_sum - k
 
-            # Check how many previous prefixes
-            # would create a subarray with sum k
-            if prefix - k in prefix_count:
-                count += prefix_count[prefix - k]
+            subarray_no += freq_counter.get(val, 0)
 
-            # Store the current prefix for the future
-            prefix_count[prefix] = prefix_count.get(prefix, 0) + 1
+            freq_counter[prefix_sum] = (
+                freq_counter.get(prefix_sum, 0) + 1
+            )
 
-        return count
+        return subarray_no
