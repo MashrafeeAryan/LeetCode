@@ -1,23 +1,23 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         """
-        We use a pointers and a window
-        Our It starts from the first index and second letter
-        We loop through the string and then have a while loop for the whindow.
-        when we encounter a chacter that is already in our window we keep reducing th ewindow size from left till the chavracter is no longer in our window
-        """
+        U: find the longest subsrting without duplicate characters
+        M: set
+        P:
+        create a set and see if it is in there, 
+        both space and time complextiy are O(n)
+        can we optimize it further are without space
 
+        """
+        length = 0
         left = 0
-        maxVal = 0
-        seen = set()
-        if not s:
-            return 0
+        freq = set()
         for right in range(len(s)):
-            while s[right] in seen:
-                seen.remove(s[left])
+            while s[right] in freq:
+                freq.remove(s[left])
                 left+=1
             
-            seen.add(s[right])
-            maxVal = max(maxVal, right - left +1)
-        
-        return maxVal
+            freq.add(s[right])
+            length = max(length, right - left + 1)
+
+        return length
