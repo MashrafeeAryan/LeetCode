@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MashrafeeAryan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/MashrafeeAryan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/MashrafeeAryan/LeetCode/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/MashrafeeAryan/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MashrafeeAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/MashrafeeAryan/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MashrafeeAryan/LeetCode/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/MashrafeeAryan/LeetCode/tree/master/0605-can-place-flowers) |
 ## Euclidean Algorithm
 |  |
 | ------- |
