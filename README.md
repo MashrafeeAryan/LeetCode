@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MashrafeeAryan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MashrafeeAryan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MashrafeeAryan/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/MashrafeeAryan/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MashrafeeAryan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MashrafeeAryan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MashrafeeAryan/LeetCode/tree/master/0069-sqrtx) |
 | [0528-random-pick-with-weight](https://github.com/MashrafeeAryan/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MashrafeeAryan/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/MashrafeeAryan/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MashrafeeAryan/LeetCode/tree/master/0134-gas-station) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MashrafeeAryan/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MashrafeeAryan/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
