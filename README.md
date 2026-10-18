@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MashrafeeAryan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/MashrafeeAryan/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MashrafeeAryan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/MashrafeeAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MashrafeeAryan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/MashrafeeAryan/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Hash Table
