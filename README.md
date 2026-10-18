@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MashrafeeAryan/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MashrafeeAryan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MashrafeeAryan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/MashrafeeAryan/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MashrafeeAryan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MashrafeeAryan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MashrafeeAryan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/MashrafeeAryan/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
